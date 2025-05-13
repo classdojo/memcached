@@ -1,6 +1,6 @@
 {
   "name": "@classdojo/memcached",
-  "version": "3.0.6",
+  "version": "3.1.0",
   "author": "classdojo",
   "description": "A fully featured Memcached API client, supporting both single and clustered Memcached servers through consistent hashing and failover/failure. Memcached is rewrite of nMemcached, which will be deprecated in the near future.",
   "main": "index.js",
